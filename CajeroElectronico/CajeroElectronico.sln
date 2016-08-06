@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CajeroElectronico", "CajeroElectronico\CajeroElectronico.csproj", "{1D880657-FAF5-4266-A236-BC8DB4CED16F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{EEB2914C-4E66-4D87-AD42-D3C5025F0BAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reglas", "Reglas\Reglas.csproj", "{37AFE4C8-7180-4C6D-BA4A-0D9865334276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D880657-FAF5-4266-A236-BC8DB4CED16F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D880657-FAF5-4266-A236-BC8DB4CED16F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D880657-FAF5-4266-A236-BC8DB4CED16F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D880657-FAF5-4266-A236-BC8DB4CED16F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB2914C-4E66-4D87-AD42-D3C5025F0BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB2914C-4E66-4D87-AD42-D3C5025F0BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB2914C-4E66-4D87-AD42-D3C5025F0BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB2914C-4E66-4D87-AD42-D3C5025F0BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37AFE4C8-7180-4C6D-BA4A-0D9865334276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37AFE4C8-7180-4C6D-BA4A-0D9865334276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37AFE4C8-7180-4C6D-BA4A-0D9865334276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37AFE4C8-7180-4C6D-BA4A-0D9865334276}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
